@@ -2,7 +2,7 @@
 
 **Public datasets for volunteers to analyze and visualize**
 
-*Here's a start — more to come!*
+*Use issues to suggest datasets to add to this list*
 
 ## Policy Context
 
