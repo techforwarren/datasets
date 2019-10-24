@@ -6,6 +6,8 @@
 
 ## Policy Context
 
+- **Aggregated Federal Budget and US Census Data** [USAfacts.org](https://usafacts.org/)
+  + USAFacts is a not-for-profit, non-partisan resource of numbers and trends in government spending and results. Founded by former Microsoft CEO Steve Ballmer in collaboration with researchers at UPenn and Stanford. Currently has CSV download links with a public API on the way.
 - **Consumer Financial Protection Bureau:** [Complaint Database](https://www.consumerfinance.gov/data-research/consumer-complaints/)
   + Database of over 1.3 million complaints filed by consumers about financial products and services (2011 - present). Has CSV, JSON download links and open data API.
 
